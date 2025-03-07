@@ -1,4 +1,4 @@
-#Smart Street Lighting System
+*Smart Street Lighting System*
 Overview
 This project implements an energy-efficient Smart Street Lighting System using an LDR (photoresistor) and IR sensors. The system works as follows:
 
